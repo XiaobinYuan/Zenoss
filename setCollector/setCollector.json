@@ -1,0 +1,9 @@
+{
+ "target": "Somerville-Col1",
+ "moveData": true,
+ "devices": [
+    "forTesting2",
+    "forTesting3",
+    "forTesting3xxxx"
+]
+}
